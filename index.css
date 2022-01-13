@@ -1,0 +1,13 @@
+body{
+    border: none;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+#canvas{
+    border: 20px solid rgb(119, 119, 119);
+}
